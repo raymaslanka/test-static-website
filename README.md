@@ -8,4 +8,4 @@ Step 2: Upload your HTML, js, css, etc. files and Commit Changes
 
 Step 3: Go to Settings | GitHub Pages and select "master" from the Source dropdown
 
-Step 4: Sample file can be found using this format: raymaslanka.github.io/test-static-website/index.html
+Step 4: Sample file can be found using this format: https://raymaslanka.github.io/test-static-website/index.html
